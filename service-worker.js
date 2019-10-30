@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/boostanak-ui/precache-manifest.f27e8560c3ff64808a44b49dd7bfeed5.js"
+  "/boostanak-ui/precache-manifest.5a8ffe896dc484178fe280dcc5e6db64.js"
 );
 
 self.addEventListener('message', (event) => {

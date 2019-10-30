@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.js": "/boostanak-ui/static/js/main.fa3f3782.chunk.js",
-    "main.js.map": "/boostanak-ui/static/js/main.fa3f3782.chunk.js.map",
+    "main.js": "/boostanak-ui/static/js/main.03f313dd.chunk.js",
+    "main.js.map": "/boostanak-ui/static/js/main.03f313dd.chunk.js.map",
     "runtime-main.js": "/boostanak-ui/static/js/runtime-main.e81793fd.js",
     "runtime-main.js.map": "/boostanak-ui/static/js/runtime-main.e81793fd.js.map",
-    "static/js/2.38a82ae3.chunk.js": "/boostanak-ui/static/js/2.38a82ae3.chunk.js",
-    "static/js/2.38a82ae3.chunk.js.map": "/boostanak-ui/static/js/2.38a82ae3.chunk.js.map",
+    "static/css/2.fd8ba982.chunk.css": "/boostanak-ui/static/css/2.fd8ba982.chunk.css",
+    "static/js/2.0b5b9c01.chunk.js": "/boostanak-ui/static/js/2.0b5b9c01.chunk.js",
+    "static/js/2.0b5b9c01.chunk.js.map": "/boostanak-ui/static/js/2.0b5b9c01.chunk.js.map",
     "index.html": "/boostanak-ui/index.html",
-    "precache-manifest.f27e8560c3ff64808a44b49dd7bfeed5.js": "/boostanak-ui/precache-manifest.f27e8560c3ff64808a44b49dd7bfeed5.js",
-    "service-worker.js": "/boostanak-ui/service-worker.js"
+    "precache-manifest.5a8ffe896dc484178fe280dcc5e6db64.js": "/boostanak-ui/precache-manifest.5a8ffe896dc484178fe280dcc5e6db64.js",
+    "service-worker.js": "/boostanak-ui/service-worker.js",
+    "static/css/2.fd8ba982.chunk.css.map": "/boostanak-ui/static/css/2.fd8ba982.chunk.css.map",
+    "static/media/all.min.css": "/boostanak-ui/static/media/fa-solid-900.c2801fb4.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e81793fd.js",
-    "static/js/2.38a82ae3.chunk.js",
-    "static/js/main.fa3f3782.chunk.js"
+    "static/css/2.fd8ba982.chunk.css",
+    "static/js/2.0b5b9c01.chunk.js",
+    "static/js/main.03f313dd.chunk.js"
   ]
 }
