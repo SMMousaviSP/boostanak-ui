@@ -1,4 +1,6 @@
 import React from 'react';
+import { Navbar } from './Components';
+
 
 class Main extends React.Component {
   constructor(props) {
@@ -6,7 +8,9 @@ class Main extends React.Component {
   }
 
   render() {
-    return();
+    return(
+      <Navbar/>
+    );
   }
 }
 
