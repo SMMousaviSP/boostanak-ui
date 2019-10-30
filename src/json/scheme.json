@@ -1,0 +1,18 @@
+{
+  "files": [
+    {
+      "name": "Teacher", "fieldList": [
+        { "name": "name",     "type": "string"  },
+        { "name": "lastname", "type": "string"  },
+        { "name": "id",       "type": "int"     }
+      ]
+    },
+    {
+      "name": "Course", "fieldList": [
+        { "name": "name",     "type": "string"  },
+        { "name": "semester", "type": "int"     },
+        { "name": "id",       "type": "int"     }
+      ]
+    }
+  ]
+}
