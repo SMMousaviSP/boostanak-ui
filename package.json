@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "http://smmousavisp.github.io/boostanak-ui",
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.11.2",
     "bootstrap": "^4.3.1",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
