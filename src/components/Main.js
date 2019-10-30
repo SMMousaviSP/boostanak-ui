@@ -1,5 +1,6 @@
 import React from 'react';
-import { Navbar } from './Components';
+import { Switch, Route } from "react-router-dom";
+import { Navbar, File } from './Components';
 
 
 class Main extends React.Component {
@@ -10,9 +11,22 @@ class Main extends React.Component {
 
   render() {
     let scheme = this.state.scheme;
+    let route = [];
+    scheme.files.forEach(function(file, index) {
+      let exactPath = "/" + file.name;
+      route.push(
+        <Route
+          exact path={exactPath}
+          render={(props) => <File {...props} file={file} />}
+        />
+      );
+    });
     return(
       <div>
         <Navbar scheme={scheme} />
+        <Switch>
+          {route}
+        </Switch>
       </div>
     );
   }
